@@ -1,5 +1,7 @@
 # hello-world
-Just a sample repository
+
 
 Hi Men!
+
+THis is a new repository sample!!
 Hubot is here!
